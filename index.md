@@ -1,10 +1,12 @@
 ### Accueil <!-- Titre de niveau 3 -->
 
+[Lien vers cette page](https://rexi9897.github.io/tp5/)
+
 [Texte du lien](https://link-url-here.org) <!-- Lien -->
 ![Texte alternatif](chemin/vers/image.jpg) <!-- Image -->
 [![Texte alternatif](https://img.youtube.com/vi/video-id/0.jpg)](https://www.youtube.com/watch?v=video-id) <!-- Vidéo -->
 
------------------------------------- <!-- Ligne de séparation -->
+---------------------------------------------------------------------------------------------------- <!-- Ligne de séparation -->
 
 | En-tête 1 | En-tête 2 | En-tête 3 |
 | --------- | --------- | --------- |
